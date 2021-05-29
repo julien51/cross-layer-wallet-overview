@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cross-layer-wallet-overview/static/css/main.bc8f544d.chunk.css",
+    "main.js": "/cross-layer-wallet-overview/static/js/main.a1555b7b.chunk.js",
+    "main.js.map": "/cross-layer-wallet-overview/static/js/main.a1555b7b.chunk.js.map",
+    "runtime-main.js": "/cross-layer-wallet-overview/static/js/runtime-main.79c64fc6.js",
+    "runtime-main.js.map": "/cross-layer-wallet-overview/static/js/runtime-main.79c64fc6.js.map",
+    "static/css/2.c02757eb.chunk.css": "/cross-layer-wallet-overview/static/css/2.c02757eb.chunk.css",
+    "static/js/2.f2c91c6d.chunk.js": "/cross-layer-wallet-overview/static/js/2.f2c91c6d.chunk.js",
+    "static/js/2.f2c91c6d.chunk.js.map": "/cross-layer-wallet-overview/static/js/2.f2c91c6d.chunk.js.map",
+    "static/js/3.209e401a.chunk.js": "/cross-layer-wallet-overview/static/js/3.209e401a.chunk.js",
+    "static/js/3.209e401a.chunk.js.map": "/cross-layer-wallet-overview/static/js/3.209e401a.chunk.js.map",
+    "index.html": "/cross-layer-wallet-overview/index.html",
+    "static/css/2.c02757eb.chunk.css.map": "/cross-layer-wallet-overview/static/css/2.c02757eb.chunk.css.map",
+    "static/css/main.bc8f544d.chunk.css.map": "/cross-layer-wallet-overview/static/css/main.bc8f544d.chunk.css.map",
+    "static/js/2.f2c91c6d.chunk.js.LICENSE.txt": "/cross-layer-wallet-overview/static/js/2.f2c91c6d.chunk.js.LICENSE.txt",
+    "static/media/icon192.8a2cafb6.png": "/cross-layer-wallet-overview/static/media/icon192.8a2cafb6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79c64fc6.js",
+    "static/css/2.c02757eb.chunk.css",
+    "static/js/2.f2c91c6d.chunk.js",
+    "static/css/main.bc8f544d.chunk.css",
+    "static/js/main.a1555b7b.chunk.js"
+  ]
+}
